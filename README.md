@@ -1,4 +1,4 @@
-# Python_quick_start
+# Python_quick_start 
 Atividades realizadas durante o curso Python Quick Start da plataforma Linkedin Learning.
 
 Este repositório inclui:
@@ -7,7 +7,7 @@ Este repositório inclui:
 
 ![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/capa_py_quickstart.jpg)
 
-## Conteúdo do curso
+## Conteúdo do curso ![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/python_button_icon_151925.png)
 ##### Introduction: Advance your career with Python
 ##### 1 - Defining Python:
 What is Python? / Why Python? / The power of Python / Python vs. Java
