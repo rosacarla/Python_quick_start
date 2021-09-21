@@ -3,7 +3,7 @@ Atividades realizadas durante o curso Python Quick Start da plataforma Linkedin 
 
 Este repositório inclui:
 - exercícios feitos no Google Colab.
-- códigos testados no Pycharm.
+- códigos testados no PyCharm.
 
 ![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/capa_py_quickstart.jpg)
 
