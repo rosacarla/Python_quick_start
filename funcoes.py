@@ -39,3 +39,5 @@ def multiplicaQuatro(a, b, c, d): # definida funcao
 
 multi4 = multiplicaQuatro(2, 4, 6, 8)  # variavel recebe valor resultante do calculo feito pela funcao
 print("A multiplicação entre 2, 4, 6 e 8 resulta em: ", multi4)  # imprime o valor da variavel
+
+# fim do codigo
