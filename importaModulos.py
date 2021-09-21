@@ -48,4 +48,4 @@ print("Embaralhei suas cartas: ",deck)   # imprime lista rearranjada pela funcao
 pot = math.pow(2, 10)  # variavel recebe funcao que calcula o resultado de 2 elevado a 10a potencia
 print("O resultado de 2 elevado à decima potencia é: ", pot)  # imprime o resultado da potenciacao
 
-
+# fim do codigo
