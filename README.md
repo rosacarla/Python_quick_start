@@ -1,2 +1,6 @@
-# python_quick_start
-Atvidades do curso Python Quick Start
+# Python_quick_start
+Atividades do curso Python Quick Start
+
+Inclui:
+- exercícios feitos no Google Colab;
+- códigos testados no Pycharm.
