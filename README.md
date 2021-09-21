@@ -1,5 +1,6 @@
 # Python_quick_start 
 Atividades realizadas durante o curso Python Quick Start da plataforma Linkedin Learning.
+Tecnologias utilizadas: Google Colaboratory, LinkedIn Learning, IDE Pycharm, Fotor
 
 Este repositório inclui:
 - exercícios feitos no Google Colab.
