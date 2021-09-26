@@ -1,7 +1,6 @@
-#Codigo: Tipos de dados
+﻿#Codigo: Tipos de dados
 #Autora: Carla Edila Silveira
 #Finalidade: atividade prática de programação do curso Python Quick Start
-#Data: 21/09/2021
 
 # 1 - TIPOS DE DADOS EM PYTHON
 a = True
