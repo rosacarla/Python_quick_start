@@ -1,14 +1,12 @@
 # Python_quick_start 
 #### Atividades realizadas durante o curso Python Quick Start da plataforma Linkedin Learning.
-#### Tecnologias utilizadas: Google Colaboratory, LinkedIn Learning, IDE Pycharm, Fotor
+#### Tecnologias utilizadas: Google Colaboratory, LinkedIn Learning, Fotor
 
-#### Este repositório inclui:
-#### - exercícios feitos no Google Colab.
-#### - códigos testados no PyCharm.
+#### Este repositório inclui exercícios feitos no Google Colab.
 
-![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/capa_py_quickstart.jpg)
+![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/imagens/capa_py_quickstart.jpg)
 
-## Conteúdo do curso ![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/python_button_icon_151925.png)
+## Conteúdo do curso ![Alt text](https://github.com/rosacarla/python_quick_start/blob/main/imagens/python_button_icon_151925.png)
 ##### Introduction: Advance your career with Python
 ##### 1 - Defining Python:
 What is Python? / Why Python? / The power of Python / Python vs. Java
