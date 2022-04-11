@@ -25,3 +25,6 @@ What is recursive function? / Define recursive function
 ##### 8 - Quick Intro to Object-Oriented Programming in Python
 What is objected-oriented programming?
 ##### Conclusion: Next steps
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
