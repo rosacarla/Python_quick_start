@@ -1,4 +1,4 @@
-# Python_quick_start 
+# Python quick start 
 #### Atividades realizadas durante o curso Python Quick Start da plataforma Linkedin Learning.
 #### Tecnologias utilizadas: Google Colaboratory, LinkedIn Learning, Fotor
 
